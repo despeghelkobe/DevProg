@@ -1,0 +1,15 @@
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.csproj.AssemblyReference.cache
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.AssemblyInfoInputs.cache
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.AssemblyInfo.cs
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.csproj.CoreCompileInputs.cache
+C:\DevProg\demow02\demow02\bin\Debug\netstandard2.0\demow02.deps.json
+C:\DevProg\demow02\demow02\bin\Debug\netstandard2.0\demow02.dll
+C:\DevProg\demow02\demow02\bin\Debug\netstandard2.0\demow02.pdb
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.dll
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\refint\demow02.dll
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\demow02.pdb
+C:\DevProg\demow02\demow02\obj\Debug\netstandard2.0\ref\demow02.dll
